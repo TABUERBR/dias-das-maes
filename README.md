@@ -1,13 +1,10 @@
-# dias-das-maes
-para minha mae janaina
-
 <!DOCTYPE html>
 <html lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feliz Dia das Mães</title>
+    <title>Feliz Dia das Mães - Janaina</title>
     <style>
         body {
             background: repeating-linear-gradient(
@@ -41,6 +38,7 @@ para minha mae janaina
             padding: 20px;
             border-radius: 10px;
             border: 2px dashed #f06292;
+            text-align: center;
         }
         .corazon {
             animation: pulse 1.5s infinite;
@@ -61,7 +59,7 @@ para minha mae janaina
                 <div class="corazon"></div>
                 <div class="carta">
                     <div class="contenido">
-                        Querida Mãe,<br><br>
+                        Querida Mãe Janaina,<br><br>
                         Neste Dia das Mães, quero expressar o quanto você significa para mim. Obrigado por cada gesto de carinho, cada palavra de apoio e cada sorriso. Você é minha fonte de inspiração, meu porto seguro e meu maior exemplo. Que este dia seja tão especial quanto você é todos os dias!<br><br>
                         Com todo meu amor,<br>
                         <strong>Feliz Dia das Mães! ❤</strong>
